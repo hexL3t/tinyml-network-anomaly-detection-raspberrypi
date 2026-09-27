@@ -23,7 +23,7 @@ This repository contains the complete design, iteration, data preprocessing pipe
 ## Hardware Demonstration
 Watch the live prototype demonstration of the model performing real-time inference on the Raspberry Pi 2:
 
-https://github.com/hexL3t/tinyml-network-anomaly-detection-raspberrypi/demonstrations/LiveHardware_Demo.mov
+[▶ Watch the live hardware demo](demonstrations/LiveHardware_Demo.mov)
 
 ## Repository Structure
 * `/assessment`: Contains formal written documentation, reports (e.g., Assessment 2 PDF), and experiment logs.
