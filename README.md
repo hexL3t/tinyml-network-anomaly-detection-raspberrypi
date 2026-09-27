@@ -37,7 +37,7 @@ Traditional intrusion detection systems assume enterprise-grade hardware, rely o
 ## Iteration & Design Decisions
 The project went through a 13-stage iteration log (see `/assessment`).
 
-![Model performance across iterations](assets/model-iteration-performance.png)
+![Model performance across iterations](assets/model-iteration-performance.jpg)
 
 * Baseline models reached ~81% accuracy.
 * An early quantised model reached **88.5% accuracy, but DoS recall fell below 78%**. Because a missed attack is the costliest failure mode in intrusion detection, this model was not selected.
@@ -60,7 +60,7 @@ https://github.com/user-attachments/assets/c874e73e-b0ff-4367-89e6-9852ad2a4504
 ### Batch dataset inference
 https://github.com/user-attachments/assets/6b80cb84-8cbe-45b2-a703-c528225f4c16
 
-![Batch inference results](assets/final-model-inference-results.png)
+![Batch inference results](assets/final-model-inference-results.jpg)
 
 ### Full presentation
 [▶ MLP301 Assessment 3 presentation](demonstrations/mlp301-presentation.mp4)
